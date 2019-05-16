@@ -10,7 +10,7 @@ var store = [{
         "url": "http://www.philbennett.me/volunteer-technologists",
         "teaser":null},{
         "title": "Moonshot: an approach to cascade ethical behaviour in supply chains",
-        "excerpt":"The fact that so many companies in the world are connected in some way to each other via a complex network of commercial relationships is tantalising to someone looking for high-scale solutions to tackle slavery and labour exploitation in supply chains. The intricate and ever-changing web of interactions and relationships...","categories": [],
+        "excerpt":"I label some ideas I have as “moonshots”. In my mind, moonshots might be difficult but potentially enormously impactful ideas. Of course, there is a risk of being perceived as naive or ludicrously optimistic by the establishment. But I think it’s worth the reputational risk of sharing an idea which...","categories": [],
         "tags": [],
         "url": "http://www.philbennett.me/cei",
         "teaser":null}]
