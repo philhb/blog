@@ -9,7 +9,7 @@ var store = [{
         "tags": [],
         "url": "http://www.philbennett.me/volunteer-technologists",
         "teaser":null},{
-        "title": "Moonshot: a market Driven approach to cascade ethical behaviour in supply chains",
+        "title": "Moonshot: an approach to cascade ethical behaviour in supply chains",
         "excerpt":"The fact that so many companies in the world are connected in some way to each other via a complex network of commercial relationships is tantalising to someone looking for high-scale solutions to tackle slavery and labour exploitation in supply chains. The intricate and ever-changing web of interactions and relationships...","categories": [],
         "tags": [],
         "url": "http://www.philbennett.me/cei",
