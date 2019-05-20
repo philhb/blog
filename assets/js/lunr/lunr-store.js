@@ -4,7 +4,7 @@ var store = [{
         "tags": [],
         "url": "http://www.philbennett.me/modern-slavery-helplines",
         "teaser":null},{
-        "title": "Technologists: be a good volunteer",
+        "title": "Technologists: be good volunteers",
         "excerpt":"As a technologist you’re probably acutely aware of the power and potential for technologies to help organisations transform and make them more impactful. As a would-be volunteer you’ve become passionate about “giving back” and want to use your valuable skills in a meaningful way. Surprisingly, the path to successfully volunteering...","categories": [],
         "tags": [],
         "url": "http://www.philbennett.me/volunteer-technologists",
